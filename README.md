@@ -18,6 +18,6 @@ Architecture:
  * main architecture
 ![Architecture](images/Architecture.png)
  * CNN heads
-![CNN heads](images/CNN_heads.png)
+![CNN heads](images/CNN%20heads.png)
 
  
