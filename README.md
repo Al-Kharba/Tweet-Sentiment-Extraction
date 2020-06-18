@@ -14,6 +14,8 @@ Solution description:
  * CrossEntropyLoss, Adam
  * epoch=3, lr=3e-5, scheduler=0.2^epoch, bsz=8
  * Label smoothing with alpha=0.15
+ 
+As a result I ensemble 15 models and got 0.71728 on private LB and 0.71387 on public LB
 
 Architecture:
  * main architecture
