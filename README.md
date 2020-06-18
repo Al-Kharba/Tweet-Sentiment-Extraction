@@ -1,4 +1,4 @@
-# (Tweet Sentiment Extraction)[https://www.kaggle.com/c/tweet-sentiment-extraction/overview]
+# [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
 
 Main files:
  * `make_features.py` - builds features from source data
