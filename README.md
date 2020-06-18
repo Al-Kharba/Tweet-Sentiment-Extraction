@@ -15,7 +15,8 @@ Solution description:
  * Label smoothing with alpha=0.15
 
 Architecture:
- * ![Architecture](images/Architecture.png)
- * CNN heads [CNN heads](images/CNN heads.png)
+![Architecture](images/Architecture.png)
+ * CNN heads
+![CNN heads](images/CNN heads.png)
 
  
