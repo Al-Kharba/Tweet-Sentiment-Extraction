@@ -2,6 +2,7 @@
 
 Main files:
  * `data` - file with data
+ * `images` - file with images for README.md
  * `tweet_sentiment_extraction.ipynb` - notebook for training data
  * `inference.ipynb` - inference notebook
 
