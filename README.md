@@ -3,7 +3,7 @@
 Main files:
  * `data` - file with data
  * `images` - file with images for README.md
- * `tweet_sentiment_extraction.ipynb` - notebook for training data
+ * `tweet_sentiment_extraction.ipynb` - notebook for training data(using TF)
  * `inference.ipynb` - inference notebook
 
 [Trained models](https://drive.google.com/drive/folders/1EfYtwnyqClOHaxjZLYANPzIXVsk3rSgS?usp=sharing)
